@@ -1,3 +1,23 @@
+## Database
+![Screenshot (47)](https://user-images.githubusercontent.com/42260108/106385620-56d8fe00-63f9-11eb-8cf2-0294f3107d8f.png)
+
+## First Home page
+![Screenshot (48)](https://user-images.githubusercontent.com/42260108/106387019-e1246080-63ff-11eb-95a4-23dfe3dd40fa.png)
+
+## Latest Product
+![Screenshot (49)](https://user-images.githubusercontent.com/42260108/106387049-01ecb600-6400-11eb-8c60-20798eaaef88.png)
+
+## Product details
+![Screenshot (51)](https://user-images.githubusercontent.com/42260108/106387062-116bff00-6400-11eb-9fbe-a519357b0abe.png)
+
+## Login before Add to cart
+![Screenshot (52)](https://user-images.githubusercontent.com/42260108/106387087-2fd1fa80-6400-11eb-93f5-23b8a62c4bd8.png)
+
+## Login before Add to cart
+![Screenshot (52)](https://user-images.githubusercontent.com/42260108/106387183-b1c22380-6400-11eb-85a6-7b68c78e04a2.png)
+
+
+
 
 
 ## About Laravel
