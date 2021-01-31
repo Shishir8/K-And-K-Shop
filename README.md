@@ -17,6 +17,36 @@
 ![Screenshot (52)](https://user-images.githubusercontent.com/42260108/106387183-b1c22380-6400-11eb-85a6-7b68c78e04a2.png)
 
 
+## Shopping cart
+![Screenshot (53)](https://user-images.githubusercontent.com/42260108/106387233-eafa9380-6400-11eb-8a36-361956306d2b.png)
+
+## Check Out Page
+![Screenshot (54)](https://user-images.githubusercontent.com/42260108/106387262-17161480-6401-11eb-8303-668b184e6e1e.png)
+
+## Final Order review Page and payment method
+![Screenshot (55)](https://user-images.githubusercontent.com/42260108/106387273-25fcc700-6401-11eb-84a7-e5c34c6c1265.png)
+![Screenshot (56)](https://user-images.githubusercontent.com/42260108/106387297-3dd44b00-6401-11eb-963d-94dea6f7851d.png)
+
+## Tank You Page
+![Screenshot (57)](https://user-images.githubusercontent.com/42260108/106387299-4cbafd80-6401-11eb-95b9-8e9ebce404db.png)
+
+## Account Page
+![Screenshot (58)](https://user-images.githubusercontent.com/42260108/106387306-56dcfc00-6401-11eb-9add-86b4a01802ca.png)
+![Screenshot (59)](https://user-images.githubusercontent.com/42260108/106387312-5b091980-6401-11eb-9033-be59e4843465.png)
+![Screenshot (61)](https://user-images.githubusercontent.com/42260108/106387316-60666400-6401-11eb-905f-ab3dce25a18d.png)
+
+
+#Admin In dashboard
+![Screenshot (66)](https://user-images.githubusercontent.com/42260108/106387341-7aa04200-6401-11eb-8983-2e7139203acd.png)
+![Screenshot (68)](https://user-images.githubusercontent.com/42260108/106387347-7e33c900-6401-11eb-94e5-51ba0d071752.png)
+![Screenshot (69)](https://user-images.githubusercontent.com/42260108/106387351-7ffd8c80-6401-11eb-8fcb-903643d928d7.png)
+![Screenshot (71)](https://user-images.githubusercontent.com/42260108/106387355-81c75000-6401-11eb-98e3-757494d5c449.png)
+![Screenshot (73)](https://user-images.githubusercontent.com/42260108/106387363-84c24080-6401-11eb-8963-d090ee9d1d67.png)
+![Screenshot (76)](https://user-images.githubusercontent.com/42260108/106387369-8855c780-6401-11eb-9178-0d1f80bb6ddb.png)
+![Screenshot (77)](https://user-images.githubusercontent.com/42260108/106387376-8b50b800-6401-11eb-9f09-080c213209b2.png)
+
+
+
 
 
 
